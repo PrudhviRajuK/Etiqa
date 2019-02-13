@@ -1,17 +1,8 @@
 package com.university.student.model;
 
-import java.util.ArrayList;
-import java.util.Collection;
-
-/**
- * @author dsurendranaidu
- *
- */
 
 import javax.persistence.*;
 import javax.validation.constraints.NotBlank;
-import javax.validation.constraints.NotNull;
-
 import org.hibernate.annotations.OnDelete;
 import org.hibernate.annotations.OnDeleteAction;
 
